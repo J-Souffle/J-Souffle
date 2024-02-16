@@ -1,4 +1,3 @@
- <img src="yvjz70r8.png" alt="Header" width="100%" height="80">
 <h2 align="center">Hello World! 👋🏽, I'm Joshua Cancio</h2>
 <h5 align="center">ACS Undergraduate Student at GMU 👩🏽‍💻</h5>
 
