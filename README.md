@@ -18,9 +18,8 @@
 
 | Skill | Description |
 | ----- | ----------- |
-| Web Development | Full Stack with py/js backend and Reactjs Frontend
+| Web Development | Experienced with py/js backend and Reactjs Frontend
 | Machine Learning | Non deep machine learning with sklearn |
-| Discord Bots | Serenity.rs, Discord.py and Discord.js |
 -----
 
 #### Top Projects:
