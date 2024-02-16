@@ -41,7 +41,7 @@
 <a href="https://github.com/J-Souffle">
   <img src="https://github-readme-stats.vercel.app/api?username=J-Souffle&show_icons=true&hide_border=true&count_private=true" />
 </a><a href="https://github.com/J-Souffle">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&langs_count=9&hide=css,html,jupyter%20notebook&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Souffle&layout=compact&langs_count=9&hide=css,html,jupyter%20notebook&count_private=true" />
 </a><a href="https://github.com/J-Souffle">
 </details>
   
