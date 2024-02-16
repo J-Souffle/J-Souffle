@@ -2,9 +2,7 @@
 <h2 align="center">Hello World! 👋🏽, I'm Joshua Cancio</h2>
 <h5 align="center">ACS Undergraduate Student at GMU 👩🏽‍💻</h5>
 
-[Portfolio Website](https://daggy.tech)
-
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) 
+[Portfolio Website](https://jsouffle-personal-portfolio.pages.dev/)
 
 #### he/they. 
 
