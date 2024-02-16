@@ -43,10 +43,6 @@
 </a><a href="https://github.com/J-Souffle">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact&langs_count=9&hide=css,html,jupyter%20notebook&count_private=true" />
 </a><a href="https://github.com/J-Souffle">
- <img src="https://raw.githubusercontent.com/J-Souffle/generate-stats/master/generated/overview.svg" />
-</a><a href="https://github.com/J-Souffle">
- <img src="https://raw.githubusercontent.com/J-Souffle/generate-stats/master/generated/languages.svg" />
- </a>
 </details>
   
 -----
