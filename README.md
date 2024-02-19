@@ -19,7 +19,6 @@
 | Skill | Description |
 | ----- | ----------- |
 | Web Development | Experienced with py/js backend and Reactjs Frontend
-| Machine Learning | Non deep machine learning with sklearn |
 -----
 
 #### Top Projects:
