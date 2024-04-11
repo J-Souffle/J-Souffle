@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Personal Project
 - 🚀 Elevating my skills in DSA and diving into the wonders of Software Engineering
 - 📨 Reach out to me at jd.cancio1@gmail.com
-- 📄 Know about my experiences https://github.com/jdcanc/resume
+- 📄 Know about my experiences https://github.com/jdcan/resume
 
 -----
 
