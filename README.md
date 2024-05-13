@@ -3,7 +3,7 @@
 
 [Portfolio Website](https://improved-portfolio-website.vercel.app/)
 
-#### he/they. 
+#### he/him. 
 
  ----
 
