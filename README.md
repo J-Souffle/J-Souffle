@@ -3,8 +3,7 @@
 
 <h3 align="center">Open to collaboration and exploring new opportunities!</h3>
 
-#### he/him. 
-[![](https://visitcount.itsvg.in/api?id=J-Souffle&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">[![](https://visitcount.itsvg.in/api?id=J-Souffle&icon=0&color=0)](https://visitcount.itsvg.in)</div>
  ----
 
 - 🔭 I’m currently working on Personal Project
