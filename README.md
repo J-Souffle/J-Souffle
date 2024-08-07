@@ -19,16 +19,6 @@
 | ----- | ----------- |
 | Web Development | Experienced with py/js backend and Reactjs Frontend
 -----
-
-#### Top Projects:
-
-/* <details>
-  <summary>Top Projects!</summary>
-    
-   
- 
-</details> */
-
 -----
 
 # 📊 GitHub Stats:
