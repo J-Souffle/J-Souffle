@@ -1,6 +1,7 @@
 <h2 align="center">Hello World! 👋🏽, I'm Joshua Cancio</h2>
 <h5 align="center">ACS Undergraduate Student at GMU 👩🏽‍💻</h5>
 
+<h3 align="center">Open to collaboration and exploring new opportunities!</h3>
 [Portfolio Website](https://improved-portfolio-website.vercel.app/)
 
 #### he/him. 
@@ -10,7 +11,6 @@
 - 🔭 I’m currently working on Personal Project
 - 🚀 Elevating my skills in DSA and diving into the wonders of Software Engineering
 - 📨 Reach out to me at jd.cancio1@gmail.com
-- 📄 Know about my experiences https://github.com/jdcanc/resume
 
 -----
 
