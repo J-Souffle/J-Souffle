@@ -3,8 +3,7 @@
 
 <h3 align="center">Open to collaboration and exploring new opportunities!</h3>
 
-<div align="center">[![](https://visitcount.itsvg.in/api?id=J-Souffle&icon=0&color=0)](https://visitcount.itsvg.in)</div>
- ----
+<div align="center">[![](https://visitcount.itsvg.in/api?id=J-Souffle&icon=0&color=0)](https://visitcount.itsvg.in)----</div>
 
 - 🔭 I’m currently working on Personal Project
 - 🚀 Elevating my skills in DSA and diving into the wonders of Software Engineering
