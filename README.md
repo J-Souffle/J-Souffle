@@ -18,7 +18,7 @@
 | Skill | Description |
 | ----- | ----------- |
 | Web Development | Experienced with py/js backend and Reactjs Frontend
------
+
 -----
 
 # 📊 GitHub Stats:
