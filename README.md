@@ -22,12 +22,12 @@
 
 #### Top Projects:
 
-<details>
+/* <details>
   <summary>Top Projects!</summary>
     
    
  
-</details>
+</details> */
 
 -----
 
