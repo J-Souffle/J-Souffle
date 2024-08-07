@@ -2,7 +2,6 @@
 <h5 align="center">ACS Undergraduate Student at GMU 👩🏽‍💻</h5>
 
 <h3 align="center">Open to collaboration and exploring new opportunities!</h3>
-[Portfolio Website](https://improved-portfolio-website.vercel.app/)
 
 #### he/him. 
 [![](https://visitcount.itsvg.in/api?id=J-Souffle&icon=0&color=0)](https://visitcount.itsvg.in)
