@@ -7,6 +7,12 @@
   
 -----
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/glowyRectangle/glowyRectangle/master/XOsX.gif" alt="Animated GIF" width="600"/>
+</p>
+
+-----
+
 - 🔭 I’m currently working on Personal Project
 - 🚀 Elevating my skills in DSA and diving into the wonders of Software Engineering
 - 📨 Reach out to me at jcancio@gmu.edu
