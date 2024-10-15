@@ -8,7 +8,7 @@
 -----
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/glowyRectangle/glowyRectangle/master/XOsX.gif" alt="Animated GIF" width="600"/>
+  <img src="https://raw.githubusercontent.com/glowyRectangle/glowyRectangle/master/XOsX.gif" alt="Animated GIF" width="300"/>
 </p>
 
 -----
